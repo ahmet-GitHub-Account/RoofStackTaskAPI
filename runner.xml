@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Roof Stacks Task Api" verbose="1">
+    <test name="Roof StackQA Test">
+        <parameter name="env" value="qa1"></parameter>
+        <classes>
+            <class name="com.roofStacks.api_test.RoofStacksApiTests"></class>
+        </classes>
+    </test>
+</suite>
