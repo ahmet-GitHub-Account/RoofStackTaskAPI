@@ -47,6 +47,7 @@ TASK (API)
 Sonuç :
 Sıralı test adımları TestNG, RestAssuredLibrary ile yazıldı, uygulandı. 
 GET, POST, PUT, PATCH, DELETE http request type ile gerekli Java kodları yazıldı.
+runner.xml ile ilgili sınıflar, package, method test suitleri oluşturuldu.  
 
 
 2021 June®
